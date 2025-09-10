@@ -79,7 +79,7 @@ Q 1 8 5
 
 ### Compile
 ```bash
-gcc -std=c11 kth_smallest_queries.c -O2 -o main
+gcc -std=c11 kth_smallest_queries.c -O2 -o kth_smallest_queries
 ```
 ### Run 
 ```bash
