@@ -44,12 +44,19 @@ A1 A2 ... An
 ### Input
 
 8 5
+
 30 10 50 40 20 60 70 15
+
 Q 1 5 2
+
 U 3 12
+
 Q 1 5 2
+
 Q 4 8 3
+
 Q 1 8 5
+
 
 
 ### Step-by-Step Explanation
